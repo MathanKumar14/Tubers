@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0aa3bb04-3efb-4723-9687-040d3e9683df" name="Default Changelist" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/webpages/admin.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/templates/webpages/about.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/webpages/models.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/templates/webpages/contact.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/webpages/views.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1oLPv3ecSYrQ8kF7DFbNSe2oefg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tubers" type="Python.DjangoServer" factoryName="Django server">
+      <module name="tubers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="tubers.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0aa3bb04-3efb-4723-9687-040d3e9683df" name="Default Changelist" comment="" />
+      <created>1613063125004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613063125004</updated>
+      <workItem from="1613063126199" duration="344000" />
+      <workItem from="1613065788836" duration="1250000" />
+      <workItem from="1613108629145" duration="135000" />
+      <workItem from="1613437917921" duration="1701000" />
+      <workItem from="1613655412581" duration="49000" />
+      <workItem from="1613696012022" duration="2040000" />
+      <workItem from="1613992860319" duration="614000" />
+      <workItem from="1614129068602" duration="2223000" />
+      <workItem from="1614170697629" duration="156000" />
+      <workItem from="1614214364969" duration="2130000" />
+      <workItem from="1614775724684" duration="2204000" />
+      <workItem from="1614861259596" duration="2141000" />
+      <workItem from="1615036374134" duration="860000" />
+      <workItem from="1615252083616" duration="3836000" />
+      <workItem from="1615423127801" duration="537000" />
+      <workItem from="1615423775608" duration="3282000" />
+      <workItem from="1615511849040" duration="3260000" />
+      <workItem from="1616227097860" duration="39000" />
+      <workItem from="1616343600539" duration="4834000" />
+      <workItem from="1616408313806" duration="778000" />
+      <workItem from="1617037560386" duration="298000" />
+      <workItem from="1617606570719" duration="2670000" />
+      <workItem from="1617892843841" duration="3000000" />
+      <workItem from="1618209977373" duration="1574000" />
+      <workItem from="1618316562524" duration="665000" />
+      <workItem from="1618373475938" duration="10741000" />
+      <workItem from="1618466768289" duration="626000" />
+      <workItem from="1618468289072" duration="619000" />
+      <workItem from="1618587286228" duration="338000" />
+      <workItem from="1618587652713" duration="80000" />
+      <workItem from="1618587768596" duration="4206000" />
+      <workItem from="1618670651841" duration="6824000" />
+      <workItem from="1618724786248" duration="10904000" />
+      <workItem from="1618810988881" duration="9416000" />
+      <workItem from="1618835813370" duration="2712000" />
+      <workItem from="1618900150194" duration="2117000" />
+      <workItem from="1619095768578" duration="1463000" />
+      <workItem from="1619098791940" duration="790000" />
+      <workItem from="1619241567872" duration="59000" />
+      <workItem from="1619241662195" duration="1485000" />
+      <workItem from="1619761213048" duration="1649000" />
+      <workItem from="1619769989227" duration="135000" />
+      <workItem from="1619771005695" duration="1473000" />
+      <workItem from="1619863370290" duration="11000" />
+      <workItem from="1630291382427" duration="769000" />
+      <workItem from="1630312046274" duration="3000" />
+      <workItem from="1634702544417" duration="387000" />
+      <workItem from="1635247448614" duration="3500000" />
+      <workItem from="1635330769924" duration="596000" />
+      <workItem from="1641446545575" duration="1094000" />
+    </task>
+    <task id="LOCAL-00001" summary="pycharm">
+      <created>1619241895889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619241895889</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1641446908731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641446908731</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1641447065080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641447065080</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pycharm" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
